@@ -1,0 +1,574 @@
+Nome: AKIRA
+Iniciativa: 19
+Classe Esq: 34
+Pericia FOR: 21
+Pericia CON: 17
+Pericia DEX: 24
+Pericia INT: 18
+Pericia CAR: 14
+Pericia CDN: 18
+Velocidade: 42
+Aparencia: 15
+Health Pts: 148
+Ren: 33
+ataques: 6
+LAMINA: Dano: 20, Acerto: 27
+ADAGA DE A.: Dano: 8, Acerto: 26
+ALICE: Dano: 13, Acerto: 26
+ESPADA VAMP. AMALD.: Dano: 19, Acerto: 34
+LUNA(MAN): Dano: 18, Acerto: 10
+LUNA: Dano: 8, Acerto: 0
+
+Nome: AORI
+Iniciativa: 23
+Classe Esq: 38
+Pericia FOR: 18
+Pericia CON: 18
+Pericia DEX: 27
+Pericia INT: 22
+Pericia CAR: 15
+Pericia CDN: 17
+Velocidade: 38
+Aparencia: 12
+Health pts: 164
+Ren: 104
+ataques: 1
+ESPADA COM CORRENTE: Dano: 18, Acerto: 35
+
+Nome: DENNY
+Iniciativa: 15
+Classe Esq: 30
+Pericia FOR: 16
+Pericia CON: 21
+Pericia DEX: 19
+Pericia INT: 17
+Pericia CAR: 19
+Pericia CDN: 22
+Velocidade: 37
+Aparencia: 15
+Health pts: 175
+Ren: 38
+ataques: 1
+PAUZIN: Dano: 4, Acerto: 23
+
+Nome: ISAAC
+Iniciativa: 19
+Classe Esq: 34
+Pericia FOR: 18
+Pericia CON: 18
+Pericia DEX: 25
+Pericia INT: 20
+Pericia CAR: 17
+Pericia CDN: 34
+Velocidade: 40
+Aparencia: 14
+Health pts: 165
+Ren: 46
+ataques: 3
+SABRES: Dano: 7, Acerto: 31
+KUSARIGAMA: Dano: 10, Acerto: 10
+LINHA: Dano: 8, Acerto: 8
+
+Nome: JACK
+Iniciativa: 15
+Classe Esq: 53
+Pericia FOR: 23
+Pericia CON: 25
+Pericia DEX: 21
+Pericia INT: 17
+Pericia CAR: 15
+Pericia CDN: 13
+Velocidade: 87
+Aparencia: 12
+Health pts: 191
+Ren: 48
+ataques: 3
+BASTAO: Dano: 8, Acerto: 26
+ADAGAS: Dano: 23, Acerto: 33
+ESPADA LONGA: Dano: 22, Acerto: 26
+
+Nome: LUCAS
+Iniciativa: 22
+Classe Esq: 37
+Pericia FOR: 24
+Pericia CON: 20
+Pericia DEX: 26
+Pericia INT: 19
+Pericia CAR: 30
+Pericia CDN: 26
+Velocidade: 40
+Aparencia: 13
+Health pts: 165
+Ren: 72
+ataques: 12
+FACA BENZ: Dano: 35, Acerto: 26
+FLECHA: Dano: 23, Acerto: 30
+FLECHA DE SOMBRA: Dano: 38, Acerto: 30
+FLECHA DE FOGO: Dano: 35, Acerto: 30
+FLECHA DE FOGO NEGRO: Dano: 50, Acerto: 30
+PREPARACAO: Dano: 34, Acerto: 19
+PREPARACAO(2 turno+): Dano: 34, Acerto: 19
+BOLA DE FOGO: Dano: 41, Acerto: 19
+BOLA DE SOMBRA: Dano: 44, Acerto: 19
+BOLA DE FOGO NEGRO: Dano: 56, Acerto: 19
+ARMADURA DE SOMBRA: Dano: 20, Acerto: 0
+ESCUDO DE SOMBRA: Dano: 20, Acerto: 0
+
+Nome: YASUHIKU
+Iniciativa: 17
+Classe Esq: 32
+Pericia FOR: 24
+Pericia CON: 18
+Pericia DEX: 20
+Pericia INT: 20
+Pericia CAR: 13
+Pericia CDN: 19
+Velocidade: 40
+Aparencia: 13
+Health pts: 152
+Ren: 50
+ataques: 1
+AIAN NAKKURU: Dano: 12, Acerto: 25
+
+Nome: ALICEA
+Iniciativa: 25
+Classe Esq: 40
+Pericia FOR: 18
+Pericia CON: 18
+Pericia DEX: 31
+Pericia INT: 18
+Pericia CAR: 23
+Pericia CDN: 16
+Velocidade: 41
+Aparencia: 18
+Health pts: 162
+Ren: 157
+ataques: 2
+GARRAS(UNHAS): Dano: 5, Acerto: 31
+TEIA(DEF): Dano: 84, Acerto: 0
+
+Nome: BIGGLE
+Iniciativa: 18
+Classe Esq: 33
+Pericia FOR: 22
+Pericia CON: 16
+Pericia DEX: 23
+Pericia INT: 23
+Pericia CAR: 26
+Pericia CDN: 20
+Velocidade: 37
+Aparencia: 13
+Health pts: 165
+Ren: 33
+ataques: 1
+VAMPIRISMO NEN: Dano: 0, Acerto: 40
+
+Nome: BOB
+Iniciativa: 22
+Classe Esq: 37
+Pericia FOR: 25
+Pericia CON: 17
+Pericia DEX: 26
+Pericia INT: 23
+Pericia CAR: 16
+Pericia CDN: 31
+Velocidade: 40
+Aparencia: 14
+Health pts: 175
+Ren: 100
+ataques: 1
+VOID: 0 Dano: 0, Acerto: 0
+
+Nome: CARRIE
+Iniciativa: 24
+Classe Esq: 41
+Pericia FOR: 37
+Pericia CON: 21
+Pericia DEX: 26
+Pericia INT: 19
+Pericia CAR: 16
+Pericia CDN: 19
+Velocidade: 43
+Aparencia: 16
+Health pts: 183
+Ren: 29
+ataques: 3
+TELECINESE: Dano: 33, Acerto: 33
+ADAGAS: Dano: 29, Acerto: 26
+ADAGA DE A.: Dano: 27, Acerto: 26
+
+Nome: DAND
+Iniciativa: 30
+Classe Esq: 45
+Pericia FOR: 24
+Pericia CON: 22
+Pericia DEX: 37
+Pericia INT: 23
+Pericia CAR: 28
+Pericia CDN: 22
+Velocidade: 50
+Aparencia: 19
+Health pts: 195
+Ren: 127
+ataques: 1
+ARGILA VIVA: Dano: 18, Acerto: 25
+
+Nome: HELIO
+Iniciativa: 21
+Classe Esq: 36
+Pericia FOR: 20
+Pericia CON: 16
+Pericia DEX: 24
+Pericia INT: 20
+Pericia CAR: 22
+Pericia CDN: 19
+Velocidade: 42
+Aparencia: 18
+Health pts: 167
+Ren: 81
+ataques: 1
+THE END: Dano: 29, Acerto: 12
+
+Nome: HIRON
+Iniciativa: 23
+Classe Esq: 50
+Pericia FOR: 24
+Pericia CON: 23
+Pericia DEX: 28
+Pericia INT: 20
+Pericia CAR: 16
+Pericia CDN: 22
+Velocidade: 65
+Aparencia: 13
+Health pts: 216
+Ren: 64
+ataques: 4
+KATANA: Dano: 9, Acerto: 40
+ADAGA DE A.: Dano: 8, Acerto:28
+FOGO: Dano: 63, Acerto:  55
+ESPADA MAGICA DRAC.: Dano: 126, Acerto: 43
+
+Nome: JAMES(SKILL)
+Iniciativa: 24
+Classe Esq: 39
+Pericia FOR: 23
+Pericia CON: 24
+Pericia DEX: 27
+Pericia INT: 28
+Pericia CAR: 22
+Pericia CDN: 26
+Velocidade: 90
+Aparencia: 18
+Health pts: 233
+Ren: 150
+ataques: 5
+ESPADA LONGA: Dano: 9, Acerto: 0
+PYROCINESE: Dano: 27, Acerto: 0
+DISCO DE FOGO: Dano: 43, Acerto: 0
+LAMINAS SNK: Dano: 30, Acerto: 0
+ARCO: Dano: 14, Acerto: 0
+
+Nome: JAMES
+Iniciativa: 24
+Classe Esq: 39
+Pericia FOR: 23
+Pericia CON: 24
+Pericia DEX: 27
+Pericia INT: 28
+Pericia CAR: 22
+Pericia CDN: 26
+Velocidade: 89
+Aparencia: 18
+Health pts: 233
+Ren: 150
+ataques: 5
+ESPADA LONGA: Dano: 9, Acerto: 0
+PYROCINESE: Dano: 27, Acerto: 0
+DISCO DE FOGO: Dano: 43, Acerto: 0
+LAMINAS SNK: Dano: 30, Acerto: 0
+ARCO: Dano: 14, Acerto: 0
+
+Nome: JHON
+Iniciativa: 21
+Classe Esq: 36
+Pericia FOR: 19
+Pericia CON: 18
+Pericia DEX: 24
+Pericia INT: 24
+Pericia CAR: 15
+Pericia CDN: 23
+Velocidade: 40
+Aparencia: 12
+Health pts: 170
+Ren: 55
+ataques: 6
+MANOPLADA: Dano: 5, Acerto: 29
+COSM.(MAN): Dano: 28, Acerto: 28
+COSM.(EMS): Dano: 46, Acerto: 44
+COSM.: Dano: 10, Acerto: 28
+COSM.(DEF): Dano: 40, Acerto: 0
+COSM.(DEF desespero): Dano: 40, Acerto: 0
+
+Nome: KAISHI
+Iniciativa: 22
+Classe Esq: 37
+Pericia FOR: 19
+Pericia CON: 16
+Pericia DEX: 28
+Pericia INT: 22
+Pericia CAR: 18
+Pericia CDN: 29
+Velocidade: 44
+Aparencia: 13
+Health pts: 165
+Ren: 127
+ataques: 3
+TENTACULO: Dano: 31, Acerto: 32
+CORTE ESPIRITUAL: Dano: 38, Acerto: 40
+KATANA: Dano: 9, Acerto: 40
+
+Nome: KALITSU
+Iniciativa: 20
+Classe Esq: 35
+Pericia FOR: 21
+Pericia CON: 20
+Pericia DEX: 26
+Pericia INT: 27
+Pericia CAR: 15
+Pericia CDN: 25
+Velocidade: 42
+Aparencia: 14
+Health pts: 154
+Ren: 39
+ataques: 1
+LITTLE ROSE: Dano: 24, Acerto: 26
+
+Nome: KAN
+Iniciativa: 22
+Classe Esq: 37
+Pericia FOR: 19
+Pericia CON: 18
+Pericia DEX: 27
+Pericia INT: 22
+Pericia CAR: 16
+Pericia CDN: 16
+Velocidade: 39
+Aparencia: 14
+Health pts: 165
+Ren: 54
+ataques: 4
+MARIONETE: Dano: 35, Acerto: 41
+CANHAO NEN: Dano: 32, Acerto: 39
+LAMINA ESCONDIDA: Dano: 39, Acerto: 82
+LAMINA EJETADA: Dano: 44, Acerto: 32
+
+Nome: KAT
+Iniciativa: 25
+Classe Esq: 40
+Pericia FOR: 15
+Pericia CON: 20
+Pericia DEX: 30
+Pericia INT: 20
+Pericia CAR: 25
+Pericia CDN: 19
+Velocidade: 45
+Aparencia: 17
+Health pts: 149
+Ren: 49
+ataques: 4
+FACA BENZ: Dano: 28, Acerto: 35
+ADAGAS NEN: Dano: 15, Acerto: 35
+ADAGAS DE A. NEN: Dano: 6, Acerto: 35
+ADAGAS BENZ: Dano: 33, Acerto: 40
+
+Nome: KUAI
+Iniciativa: 20
+Classe Esq: 40
+Pericia FOR: 18
+Pericia CON: 23
+Pericia DEX: 26
+Pericia INT: 25
+Pericia CAR: 16
+Pericia CDN: 13
+Velocidade: 38
+Aparencia: 38
+Health pts: 191
+Ren: 67
+ataques: 1
+CROCODILO: Dano: 43, Acerto: 36
+
+Nome: LAND
+Iniciativa: 26
+Classe Esq: 41
+Pericia FOR: 25
+Pericia CON: 31
+Pericia DEX: 31
+Pericia INT: 20
+Pericia CAR: 18
+Pericia CDN: 29
+Velocidade: 43
+Aparencia: 14
+Health pts: 227
+Ren: 138
+ataques: 6
+HEMOCINESE: Dano: 24, Acerto: 29
+LAMINA DE SANGUE: Dano: 19, Acerto: 41
+RAMO CARMESIM: Dano: 24, Acerto: 41
+HEMOBALA: Dano: 26, Acerto: 41
+HEMOCETRALHA: Dano: 21, Acerto: 21
+ESCUDO DE SANGUE: Dano: 20, Acerto: 0
+
+Nome: LESGUIN
+Iniciativa: 17
+Classe Esq: 37
+Pericia FOR: 24
+Pericia CON: 21
+Pericia DEX: 20
+Pericia INT: 19
+Pericia CAR: 15
+Pericia CDN: 18
+Velocidade: 40
+Aparencia: 15
+Health pts: 185
+Ren: 77
+ataques: 2
+PAU: Dano: 6, Acerto: 28
+GEMEAS FAMINTAS: Dano: 32, Acerto: 0
+
+Nome: LUCCAS
+Iniciativa: 25
+Classe Esq: 35
+Pericia FOR: 17
+Pericia CON: 17
+Pericia DEX: 32
+Pericia INT: 19
+Pericia CAR: 20
+Pericia CDN: 29
+Velocidade: 37
+Aparencia: 15
+Health pts: 159
+Ren: 79
+ataques: 1
+HALF MOON STORM: Dano: 17, Acerto: 36
+
+Nome: LUCIANO
+Iniciativa: 23
+Classe Esq: 38
+Pericia FOR: 16
+Pericia CON: 20
+Pericia DEX: 26
+Pericia INT: 25
+Pericia CAR: 28
+Pericia CDN: 15
+Velocidade: 43
+Aparencia: 17
+Health pts: 178
+Ren: 70
+ataques: 3
+PISTOLA LAZER: Dano: 10, Acerto: 28
+PISTOLA: Dano: 8, Acerto: 28
+PISTOLA NEN: Dano: 68, Acerto: 62
+
+Nome: MET
+Iniciativa: 22
+Classe Esq: 42
+Pericia FOR: 53
+Pericia CON: 21
+Pericia DEX: 29
+Pericia INT: 17
+Pericia CAR: 16
+Pericia CDN: 23
+Velocidade: 46
+Aparencia: 14
+Health pts: 226
+Ren: 89
+ataques: 3
+ESPADA LONGA DRACONICA: Dano: 63, Acerto: 41
+MACHADO LONGO DRACONICO: Dano: 62, Acerto: 41
+MARRETA DRACONICA: Dano: 61, Acerto: 41
+
+Nome: REX
+Iniciativa: 19
+Classe Esq: 34
+Pericia FOR: 26
+Pericia CON: 15
+Pericia DEX: 26
+Pericia INT: 21
+Pericia CAR: 14
+Pericia CDN: 22
+Velocidade: 37
+Aparencia: 13
+Health pts: 155
+Ren: 56
+ataques: 3
+NANOLAMINA: Dano: 53, Acerto: 35
+NANOPUNHOS: Dano: 43, Acerto: 35
+DEFESA: Dano: 75, Acerto: 0
+
+Nome: TYSON
+Iniciativa: 43
+Classe Esq: 41
+Pericia FOR: 37
+Pericia CON: 21
+Pericia DEX: 30
+Pericia INT: 21
+Pericia CAR: 16
+Pericia CDN: 32
+Velocidade: 43
+Aparencia: 16
+Health pts: 184
+Ren: 44
+ataques: 2
+MIMETISMO: Dano: 0, Acerto: 36
+POH: Dano: 0, Acerto: 36
+
+Nome: BALTAZAR
+Iniciativa: 20
+Classe Esq: 35
+Pericia FOR: 29
+Pericia CON: 35
+Pericia DEX: 36
+Pericia INT: 18
+Pericia CAR: 15
+Pericia CDN: 25
+Velocidade: 49
+Aparencia: 12
+Health pts: 160
+Ren: 0
+ataques: 2
+DINAMINE: Dano: 0, Acerto: 46
+NA MAO DO TERRORISTA: Dano: 47, Acerto: 36
+
+Nome: MCRLEY
+Iniciativa: 23
+Classe Esq: 38
+Pericia FOR: 16
+Pericia CON: 19
+Pericia DEX: 47
+Pericia INT: 28
+Pericia CAR: 19
+Pericia CDN: 27
+Velocidade: 48
+Aparencia: 13
+Health pts: 155
+Ren: 0
+ataques: 2
+RIFLE: Dano: 18, Acerto: 41
+PISTOLA: Dano: 8, Acerto: 41
+
+Nome: 
+Iniciativa: 
+Classe Esq: 
+Pericia FOR: 
+Pericia CON: 
+Pericia DEX: 
+Pericia INT: 
+Pericia CAR: 
+Pericia CDN: 
+Velocidade: 
+Aparencia: 
+Health pts: 
+Ren: 
+ataques: 
+Skill 1, Dano: , Acerto: 
+Skill 2, Dano: , Acerto: 

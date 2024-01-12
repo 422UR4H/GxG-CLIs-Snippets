@@ -1,0 +1,40 @@
+AKIRA
+Iniciativa=9
+Classe Esq=22
+Pericia FOR=10
+Pericia CON=8
+Pericia DEX=12
+Pericia INT=9
+Pericia CAR=7
+Pericia CDN=9
+Velocidade=21
+Aparencia=7
+Health Pts=74
+Ren=16
+--------------------
+Skills:
+--------------------
+LAMINA
+Dano: 10
+Acerto: 13
+--------------------
+ADAGA DE A.
+Dano: 4
+Acerto: 13
+--------------------
+ALICE
+Dano: 6
+Acerto: 13
+--------------------
+ESPADA VAMP. AMALD.
+Dano: 9
+Acerto: 17
+--------------------
+LUNA(MAN)
+Dano: 9
+Acerto: 5
+--------------------
+LUNA
+Dano: 4
+Acerto: 0
+--------------------

@@ -1,0 +1,347 @@
+#include <stdio.h>
+#include <stdlib.h>
+
+int main()
+{
+    int ri, lvaopi, lvaopf, lvaop, i=0, s=0, r1, lvpopi, lvpopf, lvpop, i2, s2=0, r2, lvryui, lvryuf, lvryu, i3, s3=0, r3, lvmop, lvmopi, lvmopf, i4, s4=0, si=0, sf=0, r4;
+    int vetor[51];
+    vetor[1]=100;
+    vetor[2]=110;
+    vetor[3]=120;
+    vetor[4]=130;
+    vetor[5]=140;
+    vetor[6]=160;
+    vetor[7]=180;
+    vetor[8]=200;
+    vetor[9]=220;
+    vetor[10]=240;
+    vetor[11]=270;
+    vetor[12]=300;
+    vetor[13]=330;
+    vetor[14]=360;
+    vetor[15]=390;
+    vetor[16]=430;
+    vetor[17]=470;
+    vetor[18]=510;
+    vetor[19]=550;
+    vetor[20]=600;
+    vetor[21]=650;
+    vetor[22]=700;
+    vetor[23]=750;
+    vetor[24]=800;
+    vetor[25]=850;
+    vetor[26]=910;
+    vetor[27]=970;
+    vetor[28]=1030;
+    vetor[29]=1090;
+    vetor[30]=1150;
+    vetor[31]=1220;
+    vetor[32]=1290;
+    vetor[33]=1360;
+    vetor[34]=1430;
+    vetor[35]=1500;
+    vetor[36]=1580;
+    vetor[37]=1660;
+    vetor[38]=1740;
+    vetor[39]=1820;
+    vetor[40]=1900;
+    vetor[41]=1990;
+    vetor[42]=2080;
+    vetor[43]=2170;
+    vetor[44]=2260;
+    vetor[45]=2350;
+    vetor[46]=2450;
+    vetor[47]=2550;
+    vetor[48]=2650;
+    vetor[49]=2750;
+    vetor[50]=2850;
+
+    int vetor2[51];
+    vetor2[1]=300;
+    vetor2[2]=330;
+    vetor2[3]=360;
+    vetor2[4]=390;
+    vetor2[5]=420;
+    vetor2[6]=480;
+    vetor2[7]=540;
+    vetor2[8]=600;
+    vetor2[9]=660;
+    vetor2[10]=720;
+    vetor2[11]=810;
+    vetor2[12]=900;
+    vetor2[13]=990;
+    vetor2[14]=1080;
+    vetor2[15]=1170;
+    vetor2[16]=1290;
+    vetor2[17]=1410;
+    vetor2[18]=1530;
+    vetor2[19]=1650;
+    vetor2[20]=1800;
+    vetor2[21]=1950;
+    vetor2[22]=2100;
+    vetor2[23]=2250;
+    vetor2[24]=2400;
+    vetor2[25]=2550;
+    vetor2[26]=2730;
+    vetor2[27]=2910;
+    vetor2[28]=3090;
+    vetor2[29]=3270;
+    vetor2[30]=3450;
+    vetor2[31]=3660;
+    vetor2[32]=3870;
+    vetor2[33]=4080;
+    vetor2[34]=4290;
+    vetor2[35]=4500;
+    vetor2[36]=4740;
+    vetor2[37]=4980;
+    vetor2[38]=5220;
+    vetor2[39]=5460;
+    vetor2[40]=5700;
+    vetor2[41]=5970;
+    vetor2[42]=6240;
+    vetor2[43]=6510;
+    vetor2[44]=6780;
+    vetor2[45]=7050;
+    vetor2[46]=7350;
+    vetor2[47]=7650;
+    vetor2[48]=7950;
+    vetor2[49]=8250;
+    vetor2[50]=8550;
+
+    int vetor3[76];
+    vetor3[1]=10;
+    vetor3[2]=20;
+    vetor3[3]=30;
+    vetor3[4]=40;
+    vetor3[5]=50;
+    vetor3[6]=60;
+    vetor3[7]=70;
+    vetor3[8]=80;
+    vetor3[9]=90;
+    vetor3[10]=100;
+    vetor3[11]=120;
+    vetor3[12]=140;
+    vetor3[13]=160;
+    vetor3[14]=180;
+    vetor3[15]=200;
+    vetor3[16]=230;
+    vetor3[17]=260;
+    vetor3[18]=290;
+    vetor3[19]=320;
+    vetor3[20]=350;
+    vetor3[21]=390;
+    vetor3[22]=430;
+    vetor3[23]=470;
+    vetor3[24]=510;
+    vetor3[25]=550;
+    vetor3[26]=600;
+    vetor3[27]=650;
+    vetor3[28]=700;
+    vetor3[29]=750;
+    vetor3[30]=800;
+    vetor3[31]=860;
+    vetor3[32]=920;
+    vetor3[33]=980;
+    vetor3[34]=1040;
+    vetor3[35]=1100;
+    vetor3[36]=1170;
+    vetor3[37]=1240;
+    vetor3[38]=1310;
+    vetor3[39]=1380;
+    vetor3[40]=1450;
+    vetor3[41]=1530;
+    vetor3[42]=1610;
+    vetor3[43]=1690;
+    vetor3[44]=1770;
+    vetor3[45]=1850;
+    vetor3[46]=1940;
+    vetor3[47]=2030;
+    vetor3[48]=2120;
+    vetor3[49]=2210;
+    vetor3[50]=2300;
+    vetor3[51]=2400;
+    vetor3[52]=2500;
+    vetor3[53]=2600;
+    vetor3[54]=2700;
+    vetor3[55]=2800;
+    vetor3[56]=2910;
+    vetor3[57]=3020;
+    vetor3[58]=3130;
+    vetor3[59]=3240;
+    vetor3[60]=3350;
+    vetor3[61]=3470;
+    vetor3[62]=3590;
+    vetor3[63]=3710;
+    vetor3[64]=3830;
+    vetor3[65]=3950;
+    vetor3[66]=4080;
+    vetor3[67]=4210;
+    vetor3[68]=4340;
+    vetor3[69]=4470;
+    vetor3[70]=4600;
+    vetor3[71]=4740;
+    vetor3[72]=4880;
+    vetor3[73]=5020;
+    vetor3[74]=5160;
+    vetor3[75]=5300;
+
+    printf("\n[1]Hatsu ou AOP\n[2]En ou POP\n[3]RYU\n[4]MOP\nO que deseja calcular? ");
+    scanf("%d", &ri);
+
+    switch(ri){
+    case 1 :
+        for(;;){
+        printf("\n[1]Para criar um NPC ou PC\n[2]Para upar um NPC ou PC\n[3]Para retornar ao menu inicial\n");
+        scanf("%d", &r1);
+
+        switch(r1){
+        case 1:
+            printf("\nDigite o Lv de Hatsu/AOP:\n");
+            scanf("%d", &lvaop);
+
+            for(i=1;i<=lvaop;i=i++)
+                s=s+vetor[i];
+
+            printf("\nExp=%d\n", s);
+            s=0;
+            break;
+
+        case 2:
+            printf("\nDigite o Lv anterior do Hatsu/AOP:\n");
+            scanf("%d", &lvaopi);
+            printf("\nDigite o Lv final do Hatsu/AOP:\n");
+            scanf("%d", &lvaopf);
+
+            for(i=lvaopi;i<=lvaopf;i=i++)
+                s=s+vetor[i];
+
+            printf("\nExp=%d\n", s-vetor[lvaopi]);
+            s=0;
+            break;
+
+        case 3:
+            return main();
+            break;
+        }
+        }
+        break;
+
+    case 2:
+        for(;;){
+        printf("\n[1]Para criar um NPC ou PC\n[2]Para upar um NPC ou PC\n[3]Para retornar ao menu inicial\n");
+        scanf("%d", &r2);
+
+        switch(r2){
+        case 1 :
+            printf("\nDigite o Lv de En/POP:\n");
+            scanf("%d", &lvpop);
+
+            for(i2=1;i2<=lvpop;i2=i2++)
+                s2=s2+vetor2[i2];
+
+            printf("\nExp=%d\n", s2);
+            s2=0;
+            break;
+
+        case 2:
+            printf("\nDigite o Lv anterior do En/POP:\n");
+            scanf("%d", &lvpopi);
+            printf("\nDigite o Lv final do En/POP:\n");
+            scanf("%d", &lvpopf);
+
+            for(i2=lvpopi;i2<=lvpopf;i2=i2++)
+                s2=s2+vetor2[i2];
+
+            printf("\nExp=%d\n", s2-vetor2[lvpopi]);
+            s2=0;
+            break;
+
+        case 3:
+            return main();
+            break;
+        }
+        }
+        break;
+
+    case 3:
+        for(;;){
+        printf("\n[1]Para criar um NPC ou PC\n[2]Para upar um NPC ou PC\n[3]Para retornar ao menu inicial\n");
+        scanf("%d", &r3);
+
+        switch(r3){
+        case 1:
+            printf("\nDigite o Lv de RYU:\n");
+            scanf("%d", &lvryu);
+
+            for(i3=1;i3<=lvryu;i3=i3++)
+                s3=s3+vetor3[i3];
+
+            printf("\nExp=%d\n", s3);
+            s3=0;
+            break;
+
+        case 2:
+            printf("\nDigite o Lv anterior do RYU:\n");
+            scanf("%d", &lvryui);
+            printf("\nDigite o Lv final do RYU:\n");
+            scanf("%d", &lvryuf);
+
+            for(i3=lvryui;i3<=lvryuf;i3=i3++)
+                s3=s3+vetor3[i3];
+
+            printf("\nExp=%d\n", s3-vetor3[lvryui]);
+            s3=0;
+            break;
+
+        case 3:
+            return main();
+            break;
+        }
+        }
+        break;
+
+    case 4:
+        for(;;){
+        printf("\n[1]Para criar um NPC ou PC\n[2]Para upar um NPC ou PC\n[3]Para retornar ao menu inicial\n");
+        scanf("%d", &r4);
+
+        switch(r4){
+        case 1:
+            printf("\nDigite o Lv de MOP:\n");
+            scanf("%d", &lvmop);
+
+            for(i4=1;1+i4<=lvmop;i4=i4++)
+                s4=lvmop*10+140+s4-i4*10; //essa fórmula pode me ajudar com outras coisas
+
+            printf("\nExp=%d\n", s4);
+            s4=0;
+            break;
+
+        case 2:
+            printf("\nDigite o Lv anterior do MOP:\n");
+            scanf("%d", &lvmopi);
+            printf("\nDigite o Lv final do MOP\n");
+            scanf("%d", &lvmopf);
+
+            for(i4=1;1+i4<=lvmopi;i4=i4++)
+                si=lvmopi*10+140+si-i4*10;
+
+            for(i4=1;1+i4<=lvmopf;i4=i4++)
+                sf=lvmopf*10+140+sf-i4*10;
+
+            printf("\nExp=%d\n", sf-si);
+            si=0;
+            sf=0;
+            break;
+
+        case 3:
+            return main();
+            break;
+        }
+        }
+        break;
+    }
+
+    system("pause>>null");
+    return 0;
+}
